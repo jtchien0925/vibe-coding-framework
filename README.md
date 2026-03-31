@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="D02E43F3-49CC-4E70-96CC-C4F21F8227D7.png" alt="Vibe Coding Framework" width="600" />
+</p>
+
 # Vibe Coding Done Right: A Practical Framework for Solo Developers Using AI
 
 AI has made solo developers dramatically faster.
